@@ -19,3 +19,6 @@
 [submodule "bundle/bundle/vim-powerline"]
 	path = bundle/bundle/vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline
